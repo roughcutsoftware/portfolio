@@ -2,6 +2,8 @@
 
 Welcome to the portfolio repository! This is a curated collection of 'learning' and 'how-to' Visual Studio IDE projects designed to demonstrate various programming concepts, techniques, and best practices.
 
+> 📚 **[Documentation Index](DOCUMENTATION_INDEX.md)** - Complete guide to all documentation in this repository
+
 ## Repository Structure
 
 This repository is organized to house multiple projects while demonstrating advanced Git concepts, particularly Git submodules for managing independent project repositories within a top-level portfolio.
@@ -78,6 +80,8 @@ This repository is licensed under CC0 1.0 Universal. See [LICENSE](LICENSE) for 
 
 ## Resources
 
+- [Visual Studio Setup Guide](VISUAL_STUDIO_SETUP.md) - IDE setup and configuration
+- [Advanced Git Guide](GIT_GUIDE.md) - Git concepts and submodule usage
+- [Quick Reference](QUICK_REFERENCE.md) - Common Git commands
 - [Git Submodules Documentation](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 - [Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/)
-- [Advanced Git Guide](GIT_GUIDE.md) - Repository-specific guide
