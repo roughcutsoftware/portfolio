@@ -1,0 +1,33 @@
+# Git Submodules Configuration
+#
+# This file tracks all Git submodules in this repository.
+# Each project is maintained as a separate Git repository and included here as a submodule.
+#
+# To add a new submodule:
+#   git submodule add <repository-url> <path>
+#
+# Example:
+#   git submodule add https://github.com/username/my-project.git learning-projects/my-project
+#
+# After adding a submodule, commit this file and the new submodule directory:
+#   git add .gitmodules <path-to-submodule>
+#   git commit -m "Add my-project as submodule"
+#
+# For more information, see GIT_GUIDE.md
+
+# Example submodule entries (uncomment and modify when adding real projects):
+#
+# [submodule "learning-projects/csharp-basics"]
+#     path = learning-projects/csharp-basics
+#     url = https://github.com/roughcutsoftware/csharp-basics.git
+#     branch = main
+#
+# [submodule "starter-projects/aspnet-core-api"]
+#     path = starter-projects/aspnet-core-api
+#     url = https://github.com/roughcutsoftware/aspnet-core-api-starter.git
+#     branch = main
+#
+# [submodule "conceptual-projects/design-patterns"]
+#     path = conceptual-projects/design-patterns
+#     url = https://github.com/roughcutsoftware/design-patterns-demo.git
+#     branch = main
