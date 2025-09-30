@@ -2,6 +2,12 @@
 
 This is a portfolio repo that will house multiple 'learning' and 'how-to' Visual Studio IDE projects.
 
+## What is MDE?
+
+**MDE** stands for **Medical Disability Examination**. It is a process used by the U.S. Department of Veterans Affairs (VA) to assess the medical condition of veterans claiming disabilities related to their military service. Loyal Source Government Services has been awarded a contract by the VA to provide MDEs, which are essential for determining the level of disability and related compensation for veterans.
+
+*Source: [Loyal Source - What is MDE?](https://www.loyalsource.com/technical/mde/)*
+
 ## Initial Repo Requirements
 
 - Working with multiple repos within a top-level repo, not necessarily a 'mono-repo', but using submodules
