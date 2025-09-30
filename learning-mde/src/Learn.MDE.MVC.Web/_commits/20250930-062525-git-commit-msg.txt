@@ -1,0 +1,4 @@
+-tasks:
+- initial repo within GitHub and local workstation
+- created initial project structure and files for 'learning-mde'
+- Update README.md with project overview, requirements, and getting started instructions.
